@@ -9,7 +9,7 @@ import (
 	"github.com/gotk/pg"
 
 	"github.com/vonwenm/go-spa/backend/account/user"
-	"github.com/vonwenm//go-spa/backend/cfg"
+	"github.com/vonwenm/go-spa/backend/cfg"
 )
 
 func init() {

@@ -7,7 +7,7 @@ import (
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gotk/ctx"
 
-	"github.com/rafael84/go-spa/backend/account/user"
+	"github.com/vonwenm/go-spa/backend/account/user"
 )
 
 // New generate a new JWT token.
