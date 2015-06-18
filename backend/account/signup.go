@@ -8,7 +8,7 @@ import (
 	"github.com/gotk/ctx"
 	"github.com/gotk/pg"
 
-	"github.com/rafael84/go-spa/backend/account/user"
+	"github.com/vonwenm/go-spa/backend/account/user"
 )
 
 func init() {

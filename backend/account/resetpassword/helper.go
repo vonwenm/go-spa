@@ -10,10 +10,10 @@ import (
 	"github.com/gotk/pg"
 	"github.com/guregu/null"
 
-	"github.com/rafael84/go-spa/backend/account/user"
-	"github.com/rafael84/go-spa/backend/cfg"
-	"github.com/rafael84/go-spa/backend/mail"
-	"github.com/rafael84/go-spa/backend/random"
+	"github.com/vonwenm/go-spa/backend/account/user"
+	"github.com/vonwenm/go-spa/backend/cfg"
+	"github.com/vonwenm/go-spa/backend/mail"
+	"github.com/vonwenm/go-spa/backend/random"
 )
 
 func createToken(db *pg.Session, userId int64) (*Model, error) {

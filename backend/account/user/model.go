@@ -6,7 +6,7 @@ import (
 	"github.com/gotk/pg"
 	"github.com/guregu/null"
 
-	"github.com/rafael84/go-spa/backend/password"
+	"github.com/vonwenm/go-spa/backend/password"
 )
 
 const (

@@ -7,7 +7,7 @@ import (
 	"github.com/gotk/pg"
 	"github.com/guregu/null"
 
-	"github.com/rafael84/go-spa/backend/password"
+	"github.com/vonwenm/go-spa/backend/password"
 )
 
 func Create(db *pg.Session, email, pw string, userJsonData *UserJsonData) (*Model, error) {
